@@ -5,7 +5,8 @@
 1. Use any language you like 🤓
 2. No third-party libraries (unit test libraries are allowed)
 3. Once you have it working post your code in the coding-challenges Slack channel under the weekly thread
-4. Have fun! 🥳
+4. Submit your response by the end of each week
+5. Have fun! 🥳
 
 ## Recomendations
 
