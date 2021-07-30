@@ -7,7 +7,7 @@
 3. Once you have it working post your code in the coding-challenges Slack channel under the weekly thread
 4. Have fun! 🥳
 
-## Reccomendations
+## Recomendations
 
 1. Be creative but you don't necessarily have to rewrite the wheel
 2. Use comments to annotate your code
